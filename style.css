@@ -1,9 +1,14 @@
+
+.container {
+    margin-bottom: 100px;
+}
 .carousel-item {
     padding: 20px 40px;
 }
 
 .pink-bg {
     background-color: #feeae9;
+    border-radius: 10px;
 }
 
 .price-color {
