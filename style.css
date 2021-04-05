@@ -46,3 +46,18 @@
     width: 100px;
     height: 100px;
 }
+/* shoes category area start */
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px #d3d3d3;
+    margin-right: 10px;
+}
+.card:last-child{
+    margin-right: 0;
+}
+
+/* subscribe area start */
+.subscirbe {
+    background-color: #feeae9;
+    height: 300px;
+}
